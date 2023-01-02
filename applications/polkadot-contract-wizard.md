@@ -36,7 +36,8 @@ There are already some tools that we can use as a reference. E.g: https://mintpl
 If we want to onboard more people to Polkadot Ecosystem and achieve mass adoption we need to make the user experience easier.
 
 We have already started with a [prototype](https://www.figma.com/proto/XhwRgBUg7oSDncX0w1byfV/Contract-Wizzard?node-id=1%3A3&viewport=-714%2C541%2C0.39&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3) on Figma.
-![Figma Prototype Contract Wizard](https://i.ibb.co/64R1xxf/Screenshot-from-2023-01-02-14-28-02.png "Polkadot Contract Wizard Design")
+
+![Figma Prototype Contract Wizard](https://gcdnb.pbrd.co/images/RgPC3fQshqt8.png "Polkadot Contract Wizard Design")
 
  **2.- Develop the interface based on the previous task result**
 
