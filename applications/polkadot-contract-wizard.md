@@ -88,7 +88,7 @@ This project will help providing a solution for all type of users to create stan
 ### Team members
 
 The project will be led by Diego Torres, protofires field CTO
-Our Developer will be                                               //TODO
+Our Developer will be Henry Palacios
 And the UI/UX expert is Agustin Longoni
 
 ### Contact
@@ -119,12 +119,13 @@ We are not only a dev shop company, but we create long term partnerships with th
 - https://github.com/protofire/kyber-pool-master-proxy-contract
 
 GitHub accounts of team members.
-
+- https://github.com/henrypalacios
 - https://github.com/alongoni
 - https://github.com/DiegoTorresborda
 
 ### Team LinkedIn Profiles
 
+- linkedin.com/in/henrydpalacios
 - linkedin.com/in/agustinlongoni
 - linkedin.com/in/diego-torres-borda-94b70912
 
